@@ -1,0 +1,8 @@
+{
+  "name": "Library Management System own",
+  "description": "Academic Library Management System for college libraries with Admin, Employee, and Member modules, book management, attendance tracking, issue/return transactions, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
